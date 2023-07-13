@@ -1,2 +1,6 @@
 [dev]
   framework = "#static"
+
+[build]
+  command = "npm run build"
+  publish = "public"
