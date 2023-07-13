@@ -5,15 +5,6 @@
   command = "echo No build for this site, we are living on the edge"
   publish = "public"
 
-# The URL for each edge function
-[[edge_functions]]
-  path = "/geolocation"
-  function = "geolocation"
-
-[[edge_functions]]
-  path = "/country-block"
-  function = "country-block"
-
 
 
 
