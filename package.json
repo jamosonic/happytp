@@ -1,6 +1,6 @@
 {
-  "name": "edge-functions-examples",
-  "description": "Explore a library of reference examples for learning about Edge Functions on Netlify.",
+  "name": "happytp-redirects",
+  "description": "Edge function to redirect to a geo specific happytp landing page",
   "version": "1.0.0",
   "scripts": {},
   "repository": {
