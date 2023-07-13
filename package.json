@@ -3,7 +3,7 @@
   "description": "Edge function to redirect to a geo specific happytp landing page",
   "version": "1.0.0",
   "scripts": {
-    "build": ""
+    "build": "echo 'no build required'"
   },
   "repository": {
     "type": "git",
